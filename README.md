@@ -11,7 +11,7 @@ sudo python3 code.py IP_Adress
 [+]---------------------------------[+]
      |     S C A N  E N G I N E      |
 [+]---------------------------------[+]
-       Powered by: Tousif Sec
+       Powered by:M Tousif Khan
 
  
                 TOOL BY TOUSIF
